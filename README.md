@@ -30,13 +30,6 @@ I learn by building small projects and love to do open source contributions. Alw
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gauransh443&layout=compact&hide_border=false&bg_color=050814&title_color=00e5ff&text_color=ffffff&border_color=1d4273" alt="Top Languages"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauransh443&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
-</p>
 
 ---
 
